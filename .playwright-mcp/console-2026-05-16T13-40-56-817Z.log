@@ -1,0 +1,758 @@
+[     258ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  599950ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  600193ms] [LOG] [Fast Refresh] done in 243ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  627235ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  627389ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  627417ms] [LOG] [Fast Refresh] done in 28ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  627641ms] [LOG] [Fast Refresh] done in 252ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  633366ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  633471ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  633487ms] [LOG] [Fast Refresh] done in 15ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  633713ms] [LOG] [Fast Refresh] done in 241ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  637087ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  637229ms] [LOG] [Fast Refresh] done in 143ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  642257ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  642395ms] [LOG] [Fast Refresh] done in 139ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  647167ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  647264ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  647275ms] [LOG] [Fast Refresh] done in 10ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  647543ms] [LOG] [Fast Refresh] done in 278ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  651521ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  651618ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  651636ms] [LOG] [Fast Refresh] done in 19ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  651807ms] [LOG] [Fast Refresh] done in 189ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  653943ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  654040ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  654060ms] [LOG] [Fast Refresh] done in 20ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  654227ms] [LOG] [Fast Refresh] done in 186ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  659583ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  659707ms] [LOG] [Fast Refresh] done in 124ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  665786ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  665884ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `----
+
+Import trace for requested module:
+./src/app/game/[code]/page.tsx @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/app-index.js:32
+[  666002ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  666005ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `----
+
+Import trace for requested module:
+./src/app/game/[code]/page.tsx @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/app-index.js:32
+[  668099ms] [LOG] [Fast Refresh] done in 2096ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  668860ms] [LOG] [Fast Refresh] done in 2857ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  669035ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `----
+
+Import trace for requested module:
+./src/app/game/[code]/page.tsx @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/app-index.js:32
+[  669154ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/create?_rsc=4ph3u:0
+[  669209ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/create?_rsc=4ph3u:0
+[  669270ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/create?_rsc=4ph3u:0
+[  669333ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/create:0
+[  669696ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///../../node_modules/react-dom/cjs/react-dom.development.js:29889
+[  669728ms] ModuleBuildError: Module build failed (from ../../node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `----
+
+    at processResult (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/webpack/bundle5.js:28:400590)
+    at <unknown> (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/webpack/bundle5.js:28:402302)
+    at <unknown> (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/loader-runner/LoaderRunner.js:1:8645)
+    at <unknown> (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/loader-runner/LoaderRunner.js:1:5019)
+    at r.callback (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/loader-runner/LoaderRunner.js:1:4039)
+[  669728ms] [LOG] [HMR] connected @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/pages/websocket.js:45
+[  669730ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `---- @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  669750ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `---- @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  670018ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `---- @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[  675275ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  675747ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[  675904ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:347
+[  676239ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  677765ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  678000ms] [LOG] [Fast Refresh] done in 236ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  680127ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  680241ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  680266ms] [LOG] [Fast Refresh] done in 25ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  680452ms] [LOG] [Fast Refresh] done in 210ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  686609ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  686782ms] [LOG] [Fast Refresh] done in 173ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  702703ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  702902ms] [LOG] [Fast Refresh] done in 198ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  725578ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  726074ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  726088ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  726811ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  736459ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  736619ms] [LOG] [Fast Refresh] done in 160ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  786745ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  787040ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  787646ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  872064ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  872543ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  873172ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  908954ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1299695ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 1300255ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[ 1300785ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[ 1361290ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 1864772ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186

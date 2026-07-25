@@ -1,0 +1,7 @@
+import type { NextConfig } from 'next';
+
+const nextConfig: NextConfig = {
+  transpilePackages: ['@kubequest/shared'],
+};
+
+export default nextConfig;

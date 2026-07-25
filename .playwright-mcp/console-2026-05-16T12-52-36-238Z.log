@@ -1,0 +1,1107 @@
+[     590ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[   12499ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[   12757ms] [LOG] [Fast Refresh] done in 258ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[   29663ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[   29821ms] [LOG] [Fast Refresh] done in 157ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[   45569ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[   45795ms] [LOG] [Fast Refresh] done in 226ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  115892ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  116581ms] [LOG] [Fast Refresh] done in 689ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  409793ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  411895ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  416897ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  421899ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  426902ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  431907ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  436915ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  441934ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  446967ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  452030ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  457161ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  462467ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  467859ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  473786ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  477655ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  478365ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  478778ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  481250ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  482934ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  483286ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  483377ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  484433ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  487023ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  487347ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  487586ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  487896ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  487962ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  488631ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  490941ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  494219ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  494327ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  494346ms] [LOG] [Fast Refresh] done in 19ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  494531ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  494843ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  494909ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  496001ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  497598ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  502602ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  504075ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  504442ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  504788ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  504860ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  505435ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  506793ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  507579ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  507674ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  507683ms] [LOG] [Fast Refresh] done in 8ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  507908ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  508213ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  508280ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  509351ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  510735ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  510978ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  511080ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  511088ms] [LOG] [Fast Refresh] done in 8ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  511323ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  511625ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  511694ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  512383ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  514578ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  515652ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  515734ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  515750ms] [LOG] [Fast Refresh] done in 16ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  515928ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  516296ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  516372ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  517861ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  519031ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  520268ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  520379ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  520387ms] [LOG] [Fast Refresh] done in 7ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  520540ms] [LOG] [Fast Refresh] done in 160ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  524034ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  524513ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  524636ms] [LOG] [Fast Refresh] done in 123ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  529037ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  531330ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  531442ms] [LOG] [Fast Refresh] done in 112ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  534038ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  537379ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  537498ms] [LOG] [Fast Refresh] done in 119ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  539040ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  541070ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  541239ms] [LOG] [Fast Refresh] done in 168ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  544044ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  544385ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  544494ms] [LOG] [Fast Refresh] done in 109ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  549046ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  554048ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  559051ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  564055ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  569060ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  574064ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  575558ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  575694ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  575713ms] [LOG] [Fast Refresh] done in 19ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  575922ms] [LOG] [Fast Refresh] done in 227ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  579070ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  584075ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  589081ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  594085ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  596199ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  596346ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  596563ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  596922ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  596996ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  598292ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  600661ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  605666ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  610672ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  615674ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  620679ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  625689ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  630694ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  635704ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  640711ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  645714ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  651220ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  657418ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  663384ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  670754ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  674916ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  675216ms] [LOG] [Fast Refresh] done in 301ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  676712ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  686457ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  693453ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  700576ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  707073ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  717060ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  723666ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  732796ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  742517ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  749670ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  757237ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  767137ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  772138ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  777139ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  782141ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  787142ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  791090ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  791275ms] [LOG] [Fast Refresh] done in 185ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  792143ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  797148ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  802157ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  807164ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  808110ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  808237ms] [LOG] [Fast Refresh] done in 127ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  812204ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  817283ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  822397ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  822995ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  823117ms] [LOG] [Fast Refresh] done in 122ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  827658ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  833126ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  836489ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  836615ms] [LOG] [Fast Refresh] done in 127ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  838924ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  844681ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  850293ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  850408ms] [LOG] [Fast Refresh] done in 116ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  854138ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  862546ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  867123ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  867269ms] [LOG] [Fast Refresh] done in 147ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  869802ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  875838ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  883473ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  883591ms] [LOG] [Fast Refresh] done in 119ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  884352ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  892138ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  899106ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  901676ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  901782ms] [LOG] [Fast Refresh] done in 106ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  905973ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  915399ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  922080ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  922668ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  922809ms] [LOG] [Fast Refresh] done in 142ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  930941ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  939484ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  941809ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  941941ms] [LOG] [Fast Refresh] done in 132ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  947246ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  947368ms] [LOG] [Fast Refresh] done in 123ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  949201ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  953843ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  953954ms] [LOG] [Fast Refresh] done in 111ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  955920ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  957605ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  957967ms] [LOG] [Fast Refresh] done in 362ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  962678ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  969685ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  970647ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  970874ms] [LOG] [Fast Refresh] done in 228ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  976601ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  976699ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  976797ms] [LOG] [Fast Refresh] done in 195ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  980647ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  980784ms] [LOG] [Fast Refresh] done in 137ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  986416ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[  990168ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  990333ms] [LOG] [Fast Refresh] done in 166ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  992613ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1000642ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 1000754ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 1000773ms] [LOG] [Fast Refresh] done in 20ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 1000960ms] [LOG] [Fast Refresh] done in 206ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 1001516ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1008975ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1010627ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 1010772ms] [LOG] [Fast Refresh] done in 146ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 1013977ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1018981ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1023982ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1028983ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1033220ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 1033362ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 1033383ms] [LOG] [Fast Refresh] done in 22ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 1033612ms] [LOG] [Fast Refresh] done in 250ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 1033986ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1038988ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1044006ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1045572ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 1045784ms] [LOG] [Fast Refresh] done in 211ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 1049011ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1054030ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1059073ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1062425ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 1062863ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[ 1063523ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[ 1063637ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1064710ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1067479ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1071312ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1075800ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1080807ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1085844ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1090855ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1095927ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1100953ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1106029ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1111164ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1116363ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1121591ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1126981ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1132287ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1138101ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1143883ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1149913ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1156497ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1162694ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1171269ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1180136ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1189813ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1198822ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1208017ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1216791ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1226626ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1235930ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1242630ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1250805ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1257868ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1265282ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1273574ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1279706ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1289082ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1296379ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1303992ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1310707ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1316957ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1323580ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1330605ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1337655ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1347437ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1357044ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1363205ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1369312ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1374313ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1379315ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1384316ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1389317ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1394319ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1399324ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1404332ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1409341ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1414355ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1419397ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1424521ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1429746ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1435098ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1440578ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1447736ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1453939ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1462459ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1472036ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1480549ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1486784ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1491785ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1496786ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1501788ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1506789ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1511792ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1516798ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1521803ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1526811ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1531836ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1536876ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1541960ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 1547167ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 2046348ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2046560ms] [LOG] [Fast Refresh] done in 212ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2070286ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2070405ms] [LOG] [Fast Refresh] done in 118ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2080816ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2080962ms] [LOG] [Fast Refresh] done in 146ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2095033ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2095202ms] [LOG] [Fast Refresh] done in 168ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2100184ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2100310ms] [LOG] [Fast Refresh] done in 126ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2121715ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2121876ms] [LOG] [Fast Refresh] done in 162ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2125039ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2125178ms] [LOG] [Fast Refresh] done in 140ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2143818ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2143937ms] [LOG] [Fast Refresh] done in 119ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2145045ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2145162ms] [LOG] [Fast Refresh] done in 118ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2164818ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2164979ms] [LOG] [Fast Refresh] done in 161ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2169598ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2169730ms] [LOG] [Fast Refresh] done in 132ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2186577ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2186692ms] [LOG] [Fast Refresh] done in 115ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2193140ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2193260ms] [LOG] [Fast Refresh] done in 119ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2210588ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2210710ms] [LOG] [Fast Refresh] done in 122ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2218504ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2218616ms] [LOG] [Fast Refresh] done in 113ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2233244ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2233370ms] [LOG] [Fast Refresh] done in 127ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2247495ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2247649ms] [LOG] [Fast Refresh] done in 155ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2257216ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2257350ms] [LOG] [Fast Refresh] done in 134ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2269002ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2269320ms] [LOG] [Fast Refresh] done in 318ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2278221ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2278351ms] [LOG] [Fast Refresh] done in 129ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2301195ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2301360ms] [LOG] [Fast Refresh] done in 165ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 2882156ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 2882678ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[ 2883345ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[ 2894142ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 3500529ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3500783ms] [LOG] [Fast Refresh] done in 254ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3527814ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3527968ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3527984ms] [LOG] [Fast Refresh] done in 15ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3528226ms] [LOG] [Fast Refresh] done in 257ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3533945ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3534050ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3534091ms] [LOG] [Fast Refresh] done in 40ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3534287ms] [LOG] [Fast Refresh] done in 236ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3537666ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3537802ms] [LOG] [Fast Refresh] done in 136ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3542836ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3542969ms] [LOG] [Fast Refresh] done in 133ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3547746ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3547843ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3547865ms] [LOG] [Fast Refresh] done in 21ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3548116ms] [LOG] [Fast Refresh] done in 272ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3552100ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3552197ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3552206ms] [LOG] [Fast Refresh] done in 10ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3552380ms] [LOG] [Fast Refresh] done in 183ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3554522ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3554619ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3554629ms] [LOG] [Fast Refresh] done in 9ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3554799ms] [LOG] [Fast Refresh] done in 179ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3560162ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3560293ms] [LOG] [Fast Refresh] done in 132ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3566365ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3566462ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `----
+
+Import trace for requested module:
+./src/app/game/[code]/page.tsx @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/app-index.js:32
+[ 3566579ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3566581ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `----
+
+Import trace for requested module:
+./src/app/game/[code]/page.tsx @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/app-index.js:32
+[ 3568625ms] [LOG] [Fast Refresh] done in 2045ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3569450ms] [LOG] [Fast Refresh] done in 2871ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3569614ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `----
+
+Import trace for requested module:
+./src/app/game/[code]/page.tsx @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/app-index.js:32
+[ 3569733ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/teacher/NSS8DY?_rsc=33795:0
+[ 3569802ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/teacher/NSS8DY?_rsc=33795:0
+[ 3569869ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/teacher/NSS8DY?_rsc=33795:0
+[ 3569946ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/teacher/NSS8DY:0
+[ 3570296ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///../../node_modules/react-dom/cjs/react-dom.development.js:29889
+[ 3570328ms] ModuleBuildError: Module build failed (from ../../node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `----
+
+    at processResult (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/webpack/bundle5.js:28:400590)
+    at <unknown> (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/webpack/bundle5.js:28:402302)
+    at <unknown> (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/loader-runner/LoaderRunner.js:1:8645)
+    at <unknown> (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/loader-runner/LoaderRunner.js:1:5019)
+    at r.callback (file:///home/dk/Documents/git/animie/node_modules/next/dist/compiled/loader-runner/LoaderRunner.js:1:4039)
+[ 3570328ms] [LOG] [HMR] connected @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/pages/websocket.js:45
+[ 3570330ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `---- @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[ 3570597ms] [ERROR] ./src/app/game/[code]/page.tsx
+Error: 
+  x the name `settings` is defined multiple times
+     ,-[/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx:22:1]
+  22 |   const socket = useSocket();
+  23 |   const {
+  24 |     phase, currentScenario, leaderboard, myPlayer, myScore,
+  25 |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     :                                                ^^^^|^^^
+     :                                                    `-- previous definition of `settings` here
+  26 |   } = useGameStore();
+  27 | 
+  28 |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+  29 |   const [hints, setHints] = useState<string[]>([]);
+  30 |   const [hintIndex, setHintIndex] = useState(0);
+  31 |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+  32 |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+  33 |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+  34 | 
+  35 |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+  36 |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+  37 |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+  38 |   useEffect(() => {
+  39 |     if (!myPlayer) {
+  40 |       const session = loadSession();
+  41 |       if (session) {
+  42 |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+  43 |           if (ack.success && ack.player && ack.room) {
+  44 |             setRoomCode(ack.room.code);
+  45 |             storeSetMyPlayer(ack.player);
+  46 |             setSettings(ack.room.settings);
+  47 |             setPlayers(ack.room.players);
+  48 |             setPhase(ack.room.phase);
+  49 |           }
+  50 |         });
+  51 |       }
+  52 |     }
+  53 |   // eslint-disable-next-line react-hooks/exhaustive-deps
+  54 |   }, []);
+  55 | 
+  56 |   // Countdown timer
+  57 |   useEffect(() => {
+  58 |     if (!roundEndAt) { setTimeLeft(null); return; }
+  59 |     const interval = setInterval(() => {
+  60 |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+  61 |     }, 250);
+  62 |     return () => clearInterval(interval);
+  63 |   }, [roundEndAt]);
+  64 | 
+  65 |   // Score popup
+  66 |   useEffect(() => {
+  67 |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+  68 |       setScorePopup(lastScoreEvent.points);
+  69 |       setTimeout(() => setScorePopup(null), 2000);
+  70 |     }
+  71 |   }, [lastScoreEvent]);
+  72 | 
+  73 |   // Phase changes
+  74 |   useEffect(() => {
+  75 |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+  76 |     if (phase === 'review') setShowLeaderboard(true);
+  77 |     if (phase === 'active') setShowLeaderboard(false);
+  78 |   }, [phase, code, router]);
+  79 | 
+  80 |   // Player solved notifications
+  81 |   useEffect(() => {
+  82 |     if (!solvedPlayers.length) return;
+  83 |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+  84 |     const lb = leaderboard.find(e => e.playerId === lastId);
+  85 |     if (lb) {
+  86 |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+  87 |       setTimeout(() => setSolveNotification(null), 3000);
+  88 |     }
+  89 |   }, [solvedPlayers]);
+  90 | 
+  91 |   function requestHint() {
+  92 |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+  93 |       if (ack.hint) {
+  94 |         setHints(prev => [...prev, ack.hint!]);
+  95 |         setHintIndex(i => i + 1);
+  96 |       }
+  97 |     });
+  98 |   }
+  99 | 
+ 100 |   const settings = useGameStore(s => s.settings);
+     :         ^^^^|^^^
+     :             `-- `settings` redefined here
+ 101 |   const namespace = (() => {
+ 102 |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ 103 |     const id = currentScenario.scenario.id;
+     `---- @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js:62
+[ 3575854ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[ 3576326ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:221
+[ 3576535ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///../../node_modules/next/dist/client/components/react-dev-overlay/pages/hot-reloader-client.js:347
+[ 3576843ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[ 3578344ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3578574ms] [LOG] [Fast Refresh] done in 231ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3580706ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3580820ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3580832ms] [LOG] [Fast Refresh] done in 11ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3581028ms] [LOG] [Fast Refresh] done in 207ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3587188ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3587356ms] [LOG] [Fast Refresh] done in 167ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3603282ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3603494ms] [LOG] [Fast Refresh] done in 211ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3626157ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3626653ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3626658ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[ 3627383ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[ 3637037ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3637186ms] [LOG] [Fast Refresh] done in 148ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[ 3687324ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3687612ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[ 3688216ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[ 3772643ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 3773115ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[ 3773753ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[ 3809447ms] [ERROR] WebSocket connection to 'ws://localhost:3001/socket.io/?EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ webpack-internal:///(app-pages-browser)/../../node_modules/engine.io-client/build/esm/transports/websocket.js:127
+[ 4200274ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 4200823ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[ 4201348ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[ 4261869ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[ 4765351ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186

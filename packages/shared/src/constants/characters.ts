@@ -1,0 +1,78 @@
+import type { Character } from '../types/game';
+
+export const CHARACTERS: Character[] = [
+  {
+    id: 'operator',
+    name: 'Kai the Operator',
+    title: 'Platform Engineer',
+    description: 'Masters of cluster infrastructure. Gets extra time on every challenge and reduced hint cost.',
+    avatarEmoji: '🔧',
+    primaryColor: '#3B82F6',
+    flavor: '"The cluster doesn\'t lie — only the logs do."',
+    buff: {
+      id: 'operator-buff',
+      name: 'Infrastructure Veteran',
+      description: '+30s timer, 50% hint cost reduction',
+      categoryMultiplier: { 'pod-management': 1.1 },
+      hintCostReduction: 0.5,
+      timeBonus: 30,
+      streakProtection: false,
+    },
+  },
+  {
+    id: 'developer',
+    name: 'Priya the Developer',
+    title: 'Full-Stack Developer',
+    description: 'Rapid-fire problem solver. Earns 20% more points on config and secrets challenges.',
+    avatarEmoji: '💻',
+    primaryColor: '#10B981',
+    flavor: '"Ship it. Fix it later. In that order."',
+    buff: {
+      id: 'developer-buff',
+      name: 'Move Fast',
+      description: '+20% points on config/secrets, streak protection',
+      categoryMultiplier: { configuration: 1.2, secrets: 1.2 },
+      hintCostReduction: 0,
+      timeBonus: 0,
+      streakProtection: true,
+    },
+  },
+  {
+    id: 'sre',
+    name: 'Marcus the SRE',
+    title: 'Site Reliability Engineer',
+    description: 'Debugging specialist. Earns 25% more on debugging and observability scenarios.',
+    avatarEmoji: '🔍',
+    primaryColor: '#F59E0B',
+    flavor: '"If it\'s not monitored, it doesn\'t exist."',
+    buff: {
+      id: 'sre-buff',
+      name: 'Blameless Postmortem',
+      description: '+25% on debug/observability, hint cost reduction',
+      categoryMultiplier: { debugging: 1.25, observability: 1.25 },
+      hintCostReduction: 0.25,
+      timeBonus: 0,
+      streakProtection: false,
+    },
+  },
+  {
+    id: 'architect',
+    name: 'Dana the Architect',
+    title: 'Solutions Architect',
+    description: 'RBAC and networking guru. Earns 30% more on RBAC and networking scenarios.',
+    avatarEmoji: '🏗️',
+    primaryColor: '#8B5CF6',
+    flavor: '"Zero trust means trusting zero people — including yourself."',
+    buff: {
+      id: 'architect-buff',
+      name: 'Least Privilege Master',
+      description: '+30% on rbac/networking, +15s timer',
+      categoryMultiplier: { rbac: 1.3, networking: 1.3 },
+      hintCostReduction: 0,
+      timeBonus: 15,
+      streakProtection: false,
+    },
+  },
+];
+
+export const CHARACTER_MAP = Object.fromEntries(CHARACTERS.map(c => [c.id, c])) as Record<string, Character>;

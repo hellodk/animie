@@ -1,0 +1,12 @@
+- generic [active] [ref=e1]:
+  - button "Switch to light mode" [ref=e2] [cursor=pointer]:
+    - img [ref=e3]
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]: ⎈
+      - generic [ref=e13]:
+        - generic [ref=e14]: KubeQuest
+        - generic [ref=e15]: 📊 Live Leaderboard
+    - generic [ref=e16]:
+      - generic [ref=e17]: Room Code
+      - generic [ref=e18]: 3B5QW2

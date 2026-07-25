@@ -1,0 +1,41 @@
+- generic [ref=e1]:
+  - button "Switch to dark mode" [ref=e23] [cursor=pointer]:
+    - img [ref=e3]
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]: ⎈ KubeQuest
+        - generic [ref=e13]: "Room: 3B5QW2"
+      - generic [ref=e14]:
+        - generic [ref=e16]: 0 pts
+        - button "🏆 Board" [ref=e17] [cursor=pointer]
+    - generic [ref=e18]:
+      - generic [ref=e20]: Waiting for scenario...
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e31]: kubectl — default
+          - button "↺ Reset" [ref=e32] [cursor=pointer]
+        - generic [ref=e36]:
+          - textbox "Terminal input" [active] [ref=e37]
+          - generic [ref=e38]:
+            - generic [ref=e113]: ╔══════════════════════════════════════╗
+            - generic [ref=e114]: ║ KubeQuest Terminal Simulator ║
+            - generic [ref=e115]: ║ Type kubectl commands to solve ║
+            - generic [ref=e116]: ╚══════════════════════════════════════╝
+            - generic [ref=e48]:
+              - generic [ref=e124]: ⎈
+              - generic [ref=e126]: default
+              - generic [ref=e128]: $
+              - generic [ref=e129]: kubectl get pods
+            - generic [ref=e130]: "Error: cluster state not initialized"
+            - generic [ref=e57]:
+              - generic [ref=e131]: ⎈
+              - generic [ref=e133]: default
+              - generic [ref=e135]: $
+  - alert [ref=e101]
+  - generic [ref=e102]: zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+  - generic [ref=e105] [cursor=pointer]:
+    - img [ref=e106]
+    - generic [ref=e108]: 2 errors
+    - button "Hide Errors" [ref=e109]:
+      - img [ref=e110]

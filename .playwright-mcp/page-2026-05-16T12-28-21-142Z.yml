@@ -1,0 +1,91 @@
+- generic [ref=e1]:
+  - button "Switch to dark mode" [ref=e95] [cursor=pointer]:
+    - img [ref=e3]
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]: 👩‍🏫
+      - heading "Create Classroom" [level=1] [ref=e13]
+      - paragraph [ref=e14]: Set up your KubeQuest game session
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]: Your Name
+        - textbox "e.g. Alex Smith" [ref=e18]
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - text: "Time per Scenario:"
+          - generic [ref=e21]: 120s
+        - slider [ref=e22]: "120"
+        - generic [ref=e23]:
+          - generic [ref=e24]: 60s
+          - generic [ref=e25]: 5 min
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: Select Scenarios
+          - generic [ref=e29]: 5 selected
+        - generic [ref=e30]:
+          - generic [ref=e31] [cursor=pointer]:
+            - checkbox "💥 Pod in Distress pod-management · 5m · 100pts ●○○○" [checked] [ref=e32]
+            - generic [ref=e33]: 💥
+            - generic [ref=e34]:
+              - generic [ref=e35]: Pod in Distress
+              - generic [ref=e36]: pod-management · 5m · 100pts
+            - generic "Beginner" [ref=e37]: ●○○○
+          - generic [ref=e38] [cursor=pointer]:
+            - checkbox "📈 Scale Up or Ship Out deployment-scaling · 4m · 100pts ●○○○" [checked] [ref=e39]
+            - generic [ref=e40]: 📈
+            - generic [ref=e41]:
+              - generic [ref=e42]: Scale Up or Ship Out
+              - generic [ref=e43]: deployment-scaling · 4m · 100pts
+            - generic "Beginner" [ref=e44]: ●○○○
+          - generic [ref=e45] [cursor=pointer]:
+            - checkbox "😱 Wrong Image, Wrong Vibes deployment-scaling · 6m · 150pts ●●○○" [checked] [ref=e46]
+            - generic [ref=e47]: 😱
+            - generic [ref=e48]:
+              - generic [ref=e49]: Wrong Image, Wrong Vibes
+              - generic [ref=e50]: deployment-scaling · 6m · 150pts
+            - generic "Intermediate" [ref=e51]: ●●○○
+          - generic [ref=e52] [cursor=pointer]:
+            - checkbox "🕸️ Service Not Found networking · 7m · 150pts ●●○○" [checked] [ref=e53]
+            - generic [ref=e54]: 🕸️
+            - generic [ref=e55]:
+              - generic [ref=e56]: Service Not Found
+              - generic [ref=e57]: networking · 7m · 150pts
+            - generic "Intermediate" [ref=e58]: ●●○○
+          - generic [ref=e59] [cursor=pointer]:
+            - checkbox "🔐 Secret Agent secrets · 7m · 150pts ●●○○" [checked] [ref=e60]
+            - generic [ref=e61]: 🔐
+            - generic [ref=e62]:
+              - generic [ref=e63]: Secret Agent
+              - generic [ref=e64]: secrets · 7m · 150pts
+            - generic "Intermediate" [ref=e65]: ●●○○
+          - generic [ref=e66] [cursor=pointer]:
+            - checkbox "🔒 Namespace Lockdown rbac · 10m · 200pts ●●●○" [ref=e67]
+            - generic [ref=e68]: 🔒
+            - generic [ref=e69]:
+              - generic [ref=e70]: Namespace Lockdown
+              - generic [ref=e71]: rbac · 10m · 200pts
+            - generic "Advanced" [ref=e72]: ●●●○
+          - generic [ref=e73] [cursor=pointer]:
+            - checkbox "⚙️ Autoscale or Bust deployment-scaling · 10m · 200pts ●●●○" [ref=e74]
+            - generic [ref=e75]: ⚙️
+            - generic [ref=e76]:
+              - generic [ref=e77]: Autoscale or Bust
+              - generic [ref=e78]: deployment-scaling · 10m · 200pts
+            - generic "Advanced" [ref=e79]: ●●●○
+          - generic [ref=e80] [cursor=pointer]:
+            - checkbox "👻 The Ghost Ingress networking · 12m · 200pts ●●●○" [ref=e81]
+            - generic [ref=e82]: 👻
+            - generic [ref=e83]:
+              - generic [ref=e84]: The Ghost Ingress
+              - generic [ref=e85]: networking · 12m · 200pts
+            - generic "Advanced" [ref=e86]: ●●●○
+          - generic [ref=e87] [cursor=pointer]:
+            - checkbox "🔥 Rollback to Safety debugging · 12m · 250pts ●●●●" [ref=e88]
+            - generic [ref=e89]: 🔥
+            - generic [ref=e90]:
+              - generic [ref=e91]: Rollback to Safety
+              - generic [ref=e92]: debugging · 12m · 250pts
+            - generic "Expert" [ref=e93]: ●●●●
+      - generic [ref=e98]: ⚠ Please enter your name
+      - button "🚀 Create Room" [active] [ref=e94] [cursor=pointer]
+  - alert [ref=e97]

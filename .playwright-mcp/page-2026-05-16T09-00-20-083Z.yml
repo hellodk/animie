@@ -1,0 +1,86 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 👩‍🏫
+      - heading "Create Classroom" [level=1] [ref=e6]
+      - paragraph [ref=e7]: Set up your KubeQuest game session
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]: Your Name
+        - textbox "e.g. Alex Smith" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - text: "Time per Scenario:"
+          - generic [ref=e14]: 120s
+        - slider [ref=e15]: "120"
+        - generic [ref=e16]:
+          - generic [ref=e17]: 60s
+          - generic [ref=e18]: 5 min
+      - generic [ref=e19]:
+        - generic [ref=e20]: Select Scenarios (5 selected)
+        - generic [ref=e21]:
+          - generic [ref=e22] [cursor=pointer]:
+            - checkbox "💥 Pod in Distress pod-management · 5m · 100pts ●" [checked] [ref=e23]
+            - generic [ref=e24]: 💥
+            - generic [ref=e25]:
+              - generic [ref=e26]: Pod in Distress
+              - generic [ref=e27]: pod-management · 5m · 100pts
+            - generic [ref=e28]: ●
+          - generic [ref=e29] [cursor=pointer]:
+            - checkbox "📈 Scale Up or Ship Out deployment-scaling · 4m · 100pts ●" [checked] [ref=e30]
+            - generic [ref=e31]: 📈
+            - generic [ref=e32]:
+              - generic [ref=e33]: Scale Up or Ship Out
+              - generic [ref=e34]: deployment-scaling · 4m · 100pts
+            - generic [ref=e35]: ●
+          - generic [ref=e36] [cursor=pointer]:
+            - checkbox "😱 Wrong Image, Wrong Vibes deployment-scaling · 6m · 150pts ●●" [checked] [ref=e37]
+            - generic [ref=e38]: 😱
+            - generic [ref=e39]:
+              - generic [ref=e40]: Wrong Image, Wrong Vibes
+              - generic [ref=e41]: deployment-scaling · 6m · 150pts
+            - generic [ref=e42]: ●●
+          - generic [ref=e43] [cursor=pointer]:
+            - checkbox "🕸️ Service Not Found networking · 7m · 150pts ●●" [checked] [ref=e44]
+            - generic [ref=e45]: 🕸️
+            - generic [ref=e46]:
+              - generic [ref=e47]: Service Not Found
+              - generic [ref=e48]: networking · 7m · 150pts
+            - generic [ref=e49]: ●●
+          - generic [ref=e50] [cursor=pointer]:
+            - checkbox "🔐 Secret Agent secrets · 7m · 150pts ●●" [checked] [ref=e51]
+            - generic [ref=e52]: 🔐
+            - generic [ref=e53]:
+              - generic [ref=e54]: Secret Agent
+              - generic [ref=e55]: secrets · 7m · 150pts
+            - generic [ref=e56]: ●●
+          - generic [ref=e57] [cursor=pointer]:
+            - checkbox "🔒 Namespace Lockdown rbac · 10m · 200pts ●●●" [ref=e58]
+            - generic [ref=e59]: 🔒
+            - generic [ref=e60]:
+              - generic [ref=e61]: Namespace Lockdown
+              - generic [ref=e62]: rbac · 10m · 200pts
+            - generic [ref=e63]: ●●●
+          - generic [ref=e64] [cursor=pointer]:
+            - checkbox "⚙️ Autoscale or Bust deployment-scaling · 10m · 200pts ●●●" [ref=e65]
+            - generic [ref=e66]: ⚙️
+            - generic [ref=e67]:
+              - generic [ref=e68]: Autoscale or Bust
+              - generic [ref=e69]: deployment-scaling · 10m · 200pts
+            - generic [ref=e70]: ●●●
+          - generic [ref=e71] [cursor=pointer]:
+            - checkbox "👻 The Ghost Ingress networking · 12m · 200pts ●●●" [ref=e72]
+            - generic [ref=e73]: 👻
+            - generic [ref=e74]:
+              - generic [ref=e75]: The Ghost Ingress
+              - generic [ref=e76]: networking · 12m · 200pts
+            - generic [ref=e77]: ●●●
+          - generic [ref=e78] [cursor=pointer]:
+            - checkbox "🔥 Rollback to Safety debugging · 12m · 250pts ●●●●" [ref=e79]
+            - generic [ref=e80]: 🔥
+            - generic [ref=e81]:
+              - generic [ref=e82]: Rollback to Safety
+              - generic [ref=e83]: debugging · 12m · 250pts
+            - generic [ref=e84]: ●●●●
+      - button "🚀 Create Room" [ref=e85] [cursor=pointer]
+  - alert [ref=e86]

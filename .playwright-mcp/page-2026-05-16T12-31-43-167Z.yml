@@ -1,0 +1,21 @@
+- generic [active] [ref=e1]:
+  - button "Switch to light mode" [ref=e2] [cursor=pointer]:
+    - img [ref=e3]
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]: 🎮
+      - heading "Join Game" [level=1] [ref=e13]
+      - paragraph [ref=e14]: Enter the room code from your instructor
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]: Room Code
+        - textbox "ABC123" [ref=e18]
+        - paragraph [ref=e19]: 0/6 characters
+      - generic [ref=e20]:
+        - generic [ref=e21]: Your Name
+        - textbox "e.g. Jordan" [ref=e22]
+      - button "🚀 Join Room" [ref=e23] [cursor=pointer]
+      - paragraph [ref=e24]:
+        - text: Are you a teacher?
+        - link "Create a room instead" [ref=e25] [cursor=pointer]:
+          - /url: /create

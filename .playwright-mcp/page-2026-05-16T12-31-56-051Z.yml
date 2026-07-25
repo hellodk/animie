@@ -1,0 +1,69 @@
+- generic [active] [ref=e1]:
+  - button "Switch to dark mode" [ref=e26] [cursor=pointer]:
+    - img [ref=e3]
+  - alert [ref=e28]
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - heading "Game Lobby" [level=1] [ref=e33]
+        - paragraph [ref=e34]: Waiting for the game to start
+      - button "3B5QW2 📋 Copy" [ref=e35] [cursor=pointer]:
+        - generic [ref=e36]: 3B5QW2
+        - generic [ref=e37]: 📋 Copy
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - heading "Choose Your Character(required)" [level=2] [ref=e40]
+        - generic [ref=e41]:
+          - button "🔧 Kai the Operator Platform Engineer Infrastructure Veteran +30s timer, 50% hint cost reduction \"The cluster doesn't lie — only the logs do.\"" [ref=e42] [cursor=pointer]:
+            - generic [ref=e43]: 🔧
+            - generic [ref=e44]: Kai the Operator
+            - generic [ref=e45]: Platform Engineer
+            - generic [ref=e46]: Infrastructure Veteran
+            - generic [ref=e47]: +30s timer, 50% hint cost reduction
+            - generic [ref=e48]: "\"The cluster doesn't lie — only the logs do.\""
+          - button "💻 Priya the Developer Full-Stack Developer Move Fast +20% points on config/secrets, streak protection \"Ship it. Fix it later. In that order.\"" [ref=e49] [cursor=pointer]:
+            - generic [ref=e50]: 💻
+            - generic [ref=e51]: Priya the Developer
+            - generic [ref=e52]: Full-Stack Developer
+            - generic [ref=e53]: Move Fast
+            - generic [ref=e54]: +20% points on config/secrets, streak protection
+            - generic [ref=e55]: "\"Ship it. Fix it later. In that order.\""
+          - button "🔍 Marcus the SRE Site Reliability Engineer Blameless Postmortem +25% on debug/observability, hint cost reduction \"If it's not monitored, it doesn't exist.\"" [ref=e56] [cursor=pointer]:
+            - generic [ref=e57]: 🔍
+            - generic [ref=e58]: Marcus the SRE
+            - generic [ref=e59]: Site Reliability Engineer
+            - generic [ref=e60]: Blameless Postmortem
+            - generic [ref=e61]: +25% on debug/observability, hint cost reduction
+            - generic [ref=e62]: "\"If it's not monitored, it doesn't exist.\""
+          - button "🏗️ Dana the Architect Solutions Architect Least Privilege Master +30% on rbac/networking, +15s timer \"Zero trust means trusting zero people — including yourself.\"" [ref=e63] [cursor=pointer]:
+            - generic [ref=e64]: 🏗️
+            - generic [ref=e65]: Dana the Architect
+            - generic [ref=e66]: Solutions Architect
+            - generic [ref=e67]: Least Privilege Master
+            - generic [ref=e68]: +30% on rbac/networking, +15s timer
+            - generic [ref=e69]: "\"Zero trust means trusting zero people — including yourself.\""
+      - generic [ref=e70]:
+        - heading "Players (2)1 ready" [level=2] [ref=e71]:
+          - text: Players (2)
+          - generic [ref=e72]: 1 ready
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75]: ❓
+            - generic [ref=e76]:
+              - generic [ref=e77]: Ms. Sharma
+              - generic [ref=e78]: No character selected
+            - generic [ref=e79]: ✅ Ready
+          - generic [ref=e80]:
+            - generic [ref=e81]: ❓
+            - generic [ref=e82]:
+              - generic [ref=e83]: Rahul
+              - generic [ref=e84]: No character selected
+            - generic [ref=e85]: ⏳ Waiting
+        - generic [ref=e86]:
+          - heading "Session Settings" [level=3] [ref=e87]
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - text: "⏱️ Time per scenario:"
+              - generic [ref=e90]: 120s
+            - generic [ref=e91]: "📋 Scenarios: 5"
+            - generic [ref=e92]: "💡 Hints: Enabled"

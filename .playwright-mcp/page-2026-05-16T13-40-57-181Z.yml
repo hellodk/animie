@@ -1,0 +1,113 @@
+- generic [active] [ref=e1]:
+  - button "Switch to light mode" [ref=e2] [cursor=pointer]:
+    - img [ref=e3]
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]: 👩‍🏫
+      - heading "Create Classroom" [level=1] [ref=e13]
+      - paragraph [ref=e14]: Set up your learning game session
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]: Select Course
+        - generic [ref=e18]:
+          - button "⎈ Kubernetes Operations Master Kubernetes cluster management, debugging, and operations through hands-on incident scenarios." [ref=e19] [cursor=pointer]:
+            - generic [ref=e20]: ⎈
+            - generic [ref=e21]: Kubernetes Operations
+            - generic [ref=e22]: Master Kubernetes cluster management, debugging, and operations through hands-on incident scenarios.
+          - button "🐳 Docker Fundamentals Learn Docker container management, image handling, and networking through practical incident scenarios." [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]: 🐳
+            - generic [ref=e25]: Docker Fundamentals
+            - generic [ref=e26]: Learn Docker container management, image handling, and networking through practical incident scenarios.
+          - button "🦀 Rust Programming Learn Rust ownership, borrowing, and cargo tooling by fixing real compile errors and dependency issues." [ref=e27] [cursor=pointer]:
+            - generic [ref=e28]: 🦀
+            - generic [ref=e29]: Rust Programming
+            - generic [ref=e30]: Learn Rust ownership, borrowing, and cargo tooling by fixing real compile errors and dependency issues.
+          - button "⛓️ Blockchain Engineering Master blockchain fundamentals, Ethereum smart contracts, DeFi protocols, Hyperledger Fabric, and Layer 2 scaling through hands-on engineering scenarios." [ref=e31] [cursor=pointer]:
+            - generic [ref=e32]: ⛓️
+            - generic [ref=e33]: Blockchain Engineering
+            - generic [ref=e34]: Master blockchain fundamentals, Ethereum smart contracts, DeFi protocols, Hyperledger Fabric, and Layer 2 scaling through hands-on engineering scenarios.
+          - 'button "🔥 Crucible: Smart Contract Security Master smart contract security testing using Foundry and Halmos — from unit tests to symbolic execution and live exploit writing." [ref=e35] [cursor=pointer]':
+            - generic [ref=e36]: 🔥
+            - generic [ref=e37]: "Crucible: Smart Contract Security"
+            - generic [ref=e38]: Master smart contract security testing using Foundry and Halmos — from unit tests to symbolic execution and live exploit writing.
+      - generic [ref=e39]:
+        - generic [ref=e40]: Your Name
+        - textbox "e.g. Alex Smith" [ref=e41]
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - text: "Time per Scenario:"
+          - generic [ref=e44]: 120s
+        - slider [ref=e45]: "120"
+        - generic [ref=e46]:
+          - generic [ref=e47]: 60s
+          - generic [ref=e48]: 5 min
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - generic [ref=e51]: Select Scenarios
+          - generic [ref=e52]: 5 selected
+        - generic [ref=e53]:
+          - generic [ref=e54] [cursor=pointer]:
+            - checkbox "💥 Pod in Distress pod-management · 5m · 100pts ●○○○" [checked] [ref=e55]
+            - generic [ref=e56]: 💥
+            - generic [ref=e57]:
+              - generic [ref=e58]: Pod in Distress
+              - generic [ref=e59]: pod-management · 5m · 100pts
+            - generic "Beginner" [ref=e60]: ●○○○
+          - generic [ref=e61] [cursor=pointer]:
+            - checkbox "📈 Scale Up or Ship Out deployment-scaling · 4m · 100pts ●○○○" [checked] [ref=e62]
+            - generic [ref=e63]: 📈
+            - generic [ref=e64]:
+              - generic [ref=e65]: Scale Up or Ship Out
+              - generic [ref=e66]: deployment-scaling · 4m · 100pts
+            - generic "Beginner" [ref=e67]: ●○○○
+          - generic [ref=e68] [cursor=pointer]:
+            - checkbox "😱 Wrong Image, Wrong Vibes deployment-scaling · 6m · 150pts ●●○○" [checked] [ref=e69]
+            - generic [ref=e70]: 😱
+            - generic [ref=e71]:
+              - generic [ref=e72]: Wrong Image, Wrong Vibes
+              - generic [ref=e73]: deployment-scaling · 6m · 150pts
+            - generic "Intermediate" [ref=e74]: ●●○○
+          - generic [ref=e75] [cursor=pointer]:
+            - checkbox "🕸️ Service Not Found networking · 7m · 150pts ●●○○" [checked] [ref=e76]
+            - generic [ref=e77]: 🕸️
+            - generic [ref=e78]:
+              - generic [ref=e79]: Service Not Found
+              - generic [ref=e80]: networking · 7m · 150pts
+            - generic "Intermediate" [ref=e81]: ●●○○
+          - generic [ref=e82] [cursor=pointer]:
+            - checkbox "🔐 Secret Agent secrets · 7m · 150pts ●●○○" [checked] [ref=e83]
+            - generic [ref=e84]: 🔐
+            - generic [ref=e85]:
+              - generic [ref=e86]: Secret Agent
+              - generic [ref=e87]: secrets · 7m · 150pts
+            - generic "Intermediate" [ref=e88]: ●●○○
+          - generic [ref=e89] [cursor=pointer]:
+            - checkbox "🔒 Namespace Lockdown rbac · 10m · 200pts ●●●○" [ref=e90]
+            - generic [ref=e91]: 🔒
+            - generic [ref=e92]:
+              - generic [ref=e93]: Namespace Lockdown
+              - generic [ref=e94]: rbac · 10m · 200pts
+            - generic "Advanced" [ref=e95]: ●●●○
+          - generic [ref=e96] [cursor=pointer]:
+            - checkbox "⚙️ Autoscale or Bust deployment-scaling · 10m · 200pts ●●●○" [ref=e97]
+            - generic [ref=e98]: ⚙️
+            - generic [ref=e99]:
+              - generic [ref=e100]: Autoscale or Bust
+              - generic [ref=e101]: deployment-scaling · 10m · 200pts
+            - generic "Advanced" [ref=e102]: ●●●○
+          - generic [ref=e103] [cursor=pointer]:
+            - checkbox "👻 The Ghost Ingress networking · 12m · 200pts ●●●○" [ref=e104]
+            - generic [ref=e105]: 👻
+            - generic [ref=e106]:
+              - generic [ref=e107]: The Ghost Ingress
+              - generic [ref=e108]: networking · 12m · 200pts
+            - generic "Advanced" [ref=e109]: ●●●○
+          - generic [ref=e110] [cursor=pointer]:
+            - checkbox "🔥 Rollback to Safety debugging · 12m · 250pts ●●●●" [ref=e111]
+            - generic [ref=e112]: 🔥
+            - generic [ref=e113]:
+              - generic [ref=e114]: Rollback to Safety
+              - generic [ref=e115]: debugging · 12m · 250pts
+            - generic "Expert" [ref=e116]: ●●●●
+      - button "🚀 Create Room" [ref=e117] [cursor=pointer]
+  - alert [ref=e118]

@@ -1,0 +1,85 @@
+[    1347ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  291268ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  293107ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  293367ms] [LOG] [Fast Refresh] done in 260ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  298750ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  299108ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:112
+[  306371ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  319176ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  327446ms] [ERROR] Failed to fetch RSC payload for http://localhost:3000/leaderboard/3B5QW2?projector=1. Falling back to browser navigation. TypeError: Failed to fetch
+    at fetchServerResponse (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/router-reducer/fetch-server-response.js:57:27)
+    at fastRefreshReducerImpl (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js:33:67)
+    at clientReducer (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/router-reducer/router-reducer.js:41:67)
+    at Object.action (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/shared/lib/router/action-queue.js:150:55)
+    at runAction (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/shared/lib/router/action-queue.js:56:38)
+    at dispatchAction (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/shared/lib/router/action-queue.js:113:9)
+    at Object.dispatch (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/shared/lib/router/action-queue.js:145:40)
+    at eval (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/use-reducer-with-devtools.js:130:21)
+    at eval (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/app-router.js:296:25)
+    at startTransition (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react/cjs/react.development.js:2597:25)
+    at Object.fastRefresh (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/app-router.js:295:48)
+    at eval (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:277:28)
+    at startTransition (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react/cjs/react.development.js:2597:25)
+    at processMessage (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:276:44)
+    at WebSocket.handler (webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:395:17) @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/app-index.js:32
+[  334263ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/compiled/react-dom/cjs/react-dom.development.js:38559
+[  336025ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  336194ms] [LOG] [Fast Refresh] done in 170ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  338193ms] [LOG] [Fast Refresh] done in 2169ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  343046ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  343484ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  343593ms] [LOG] [Fast Refresh] done in 109ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  344914ms] [LOG] [Fast Refresh] done in 1430ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  349913ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  350578ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  350809ms] [LOG] [Fast Refresh] done in 231ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  353216ms] [LOG] [Fast Refresh] done in 2638ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  355139ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  356574ms] [LOG] [Fast Refresh] done in 1435ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  362923ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  363363ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  363467ms] [LOG] [Fast Refresh] done in 105ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  364329ms] [LOG] [Fast Refresh] done in 966ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  370620ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  371342ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  371563ms] [LOG] [Fast Refresh] done in 220ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  372939ms] [LOG] [Fast Refresh] done in 1597ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  379771ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  380619ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  380773ms] [LOG] [Fast Refresh] done in 154ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  382359ms] [LOG] [Fast Refresh] done in 1740ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  385243ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  386079ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  386193ms] [LOG] [Fast Refresh] done in 113ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  388309ms] [LOG] [Fast Refresh] done in 2230ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  395359ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  396054ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  396177ms] [LOG] [Fast Refresh] done in 124ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  397883ms] [LOG] [Fast Refresh] done in 1830ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  403069ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  403690ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  403847ms] [LOG] [Fast Refresh] done in 156ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  405354ms] [LOG] [Fast Refresh] done in 1663ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  407723ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  408455ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  408631ms] [LOG] [Fast Refresh] done in 177ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  410352ms] [LOG] [Fast Refresh] done in 1897ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  419076ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  419718ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  419876ms] [LOG] [Fast Refresh] done in 158ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  421398ms] [LOG] [Fast Refresh] done in 1680ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  428515ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  429058ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  429104ms] [LOG] [Fast Refresh] done in 46ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  430378ms] [LOG] [Fast Refresh] done in 1321ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  475865ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  478124ms] [LOG] [Fast Refresh] rebuilding @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:186
+[  478417ms] [LOG] [Fast Refresh] done in 294ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43
+[  484704ms] [LOG] [Fast Refresh] done in 6580ms @ webpack-internal:///(app-pages-browser)/../../node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:43

@@ -1,0 +1,20 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🎮
+      - heading "Join Game" [level=1] [ref=e6]
+      - paragraph [ref=e7]: Enter the room code from your instructor
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]: Room Code
+        - textbox "ABC123" [ref=e11]
+        - paragraph [ref=e12]: 0/6 characters
+      - generic [ref=e13]:
+        - generic [ref=e14]: Your Name
+        - textbox "e.g. Jordan" [ref=e15]
+      - button "🚀 Join Room" [ref=e16] [cursor=pointer]
+      - paragraph [ref=e17]:
+        - text: Are you a teacher?
+        - link "Create a room instead" [ref=e18] [cursor=pointer]:
+          - /url: /create
+  - alert [ref=e19]

@@ -1,0 +1,105 @@
+- generic [active] [ref=e1]:
+  - button "Switch to light mode" [ref=e2] [cursor=pointer]:
+    - img [ref=e3]
+  - generic [ref=e9]:
+    - generic [ref=e14]:
+      - generic [ref=e15]: ⎈ Multiplayer Kubernetes Learning
+      - generic [ref=e16]:
+        - generic [ref=e17]: ⎈
+        - heading "KubeQuest" [level=1] [ref=e18]
+      - paragraph [ref=e19]: Solve real Kubernetes incidents in a competitive classroom game. Race teammates, earn points, and climb the live leaderboard.
+      - paragraph [ref=e20]: 9 scenarios · Real kubectl simulator · Live leaderboard · 4 character classes
+      - generic [ref=e21]:
+        - link "👩‍🏫 Create Classroom" [ref=e22] [cursor=pointer]:
+          - /url: /create
+          - button "👩‍🏫 Create Classroom" [ref=e23]
+        - link "🎮 Join Game" [ref=e24] [cursor=pointer]:
+          - /url: /join
+          - button "🎮 Join Game" [ref=e25]
+    - generic [ref=e26]:
+      - heading "Everything you need for a Kubernetes workshop" [level=2] [ref=e27]
+      - paragraph [ref=e28]: No setup required for students — just share the room code
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e31]: 🖥️
+          - heading "Real kubectl Simulator" [level=3] [ref=e32]
+          - paragraph [ref=e33]: Practice actual Kubernetes commands in a safe sandbox environment.
+        - generic [ref=e34]:
+          - generic [ref=e35]: 🏆
+          - heading "Live Leaderboard" [level=3] [ref=e36]
+          - paragraph [ref=e37]: Compete in real-time with classmates. Earn points for speed and accuracy.
+        - generic [ref=e38]:
+          - generic [ref=e39]: 🎭
+          - heading "4 Unique Characters" [level=3] [ref=e40]
+          - paragraph [ref=e41]: Each with special buffs. Choose your Operator, Developer, SRE, or Architect.
+        - generic [ref=e42]:
+          - generic [ref=e43]: 📋
+          - heading "9 Scenarios" [level=3] [ref=e44]
+          - paragraph [ref=e45]: From pod crashes to RBAC — realistic production incidents to solve.
+        - generic [ref=e46]:
+          - generic [ref=e47]: 💡
+          - heading "Progressive Hints" [level=3] [ref=e48]
+          - paragraph [ref=e49]: Stuck? Use hints (with a point penalty). Learn without frustration.
+        - generic [ref=e50]:
+          - generic [ref=e51]: 👩‍🏫
+          - heading "Teacher Dashboard" [level=3] [ref=e52]
+          - paragraph [ref=e53]: Monitor every student in real-time. Reveal solutions. Control the pace.
+    - generic [ref=e54]:
+      - heading "9 Scenarios included" [level=2] [ref=e55]
+      - paragraph [ref=e56]: From beginner-friendly to expert-level production incidents
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - generic [ref=e59]: 💥
+          - generic [ref=e60]:
+            - generic [ref=e61]: Pod in Distress
+            - generic [ref=e62]: pod-management
+          - generic "Beginner" [ref=e63]: ●○○○
+        - generic [ref=e64]:
+          - generic [ref=e65]: 📈
+          - generic [ref=e66]:
+            - generic [ref=e67]: Scale Up or Ship Out
+            - generic [ref=e68]: deployment
+          - generic "Beginner" [ref=e69]: ●○○○
+        - generic [ref=e70]:
+          - generic [ref=e71]: 😱
+          - generic [ref=e72]:
+            - generic [ref=e73]: Wrong Image, Wrong Vibes
+            - generic [ref=e74]: deployment
+          - generic "Intermediate" [ref=e75]: ●●○○
+        - generic [ref=e76]:
+          - generic [ref=e77]: 🕸️
+          - generic [ref=e78]:
+            - generic [ref=e79]: Service Not Found
+            - generic [ref=e80]: networking
+          - generic "Intermediate" [ref=e81]: ●●○○
+        - generic [ref=e82]:
+          - generic [ref=e83]: 🔐
+          - generic [ref=e84]:
+            - generic [ref=e85]: Secret Agent
+            - generic [ref=e86]: secrets
+          - generic "Intermediate" [ref=e87]: ●●○○
+        - generic [ref=e88]:
+          - generic [ref=e89]: 🔒
+          - generic [ref=e90]:
+            - generic [ref=e91]: Namespace Lockdown
+            - generic [ref=e92]: rbac
+          - generic "Advanced" [ref=e93]: ●●●○
+        - generic [ref=e94]:
+          - generic [ref=e95]: ⚙️
+          - generic [ref=e96]:
+            - generic [ref=e97]: Autoscale or Bust
+            - generic [ref=e98]: hpa
+          - generic "Advanced" [ref=e99]: ●●●○
+        - generic [ref=e100]:
+          - generic [ref=e101]: 👻
+          - generic [ref=e102]:
+            - generic [ref=e103]: The Ghost Ingress
+            - generic [ref=e104]: networking
+          - generic "Advanced" [ref=e105]: ●●●○
+        - generic [ref=e106]:
+          - generic [ref=e107]: 🔥
+          - generic [ref=e108]:
+            - generic [ref=e109]: Rollback to Safety
+            - generic [ref=e110]: debugging
+          - generic "Expert" [ref=e111]: ●●●●
+    - contentinfo [ref=e112]: KubeQuest — Built for Kubernetes education

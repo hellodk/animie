@@ -1,0 +1,56 @@
+- generic [ref=e1]:
+  - button "Switch to dark mode" [ref=e2] [cursor=pointer]:
+    - img [ref=e3]
+  - alert [ref=e22]
+  - generic [ref=e92]:
+    - generic [ref=e93]:
+      - generic [ref=e94]:
+        - link "⎈ KubeQuest" [ref=e95] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e96]: "Room: NSS8DY"
+        - generic [ref=e97]: "|"
+        - generic [ref=e98]: Pod in Distress
+        - generic [ref=e99]: Beginner
+      - generic [ref=e100]:
+        - generic [ref=e212]: ⏱ 1:42
+        - generic [ref=e102]: 0 pts
+        - button "🏆" [ref=e103] [cursor=pointer]
+    - generic [ref=e104]:
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - generic [ref=e109]: Scenario 1/5
+          - heading "Pod in Distress" [level=2] [ref=e110]
+        - generic [ref=e112]: "🚨 INCIDENT ALERT — The Acme Corp API is returning 503s. On-call just got paged. The `api-server` pod has been restarting every 30 seconds for the last 5 minutes. Your job: diagnose and fix it before the SLA breach timer hits zero."
+        - generic [ref=e113]:
+          - heading "Objectives" [level=3] [ref=e114]
+          - list [ref=e115]:
+            - listitem [ref=e116]:
+              - generic [ref=e117]: ○
+              - text: Identify why the api-server pod is in CrashLoopBackOff
+            - listitem [ref=e118]:
+              - generic [ref=e119]: ○
+              - text: Fix the misconfiguration causing the crash
+            - listitem [ref=e120]:
+              - generic [ref=e121]: ○
+              - text: Ensure the pod reaches Running status
+        - generic [ref=e122]:
+          - generic [ref=e123]:
+            - heading "Hints" [level=3] [ref=e124]
+            - generic [ref=e125]: 3 remaining
+          - button "💡 Use Hint (-20pts)" [ref=e126] [cursor=pointer]
+      - generic [ref=e128]:
+        - generic [ref=e129]:
+          - generic [ref=e134]: kubectl — default
+          - button "↺ Reset" [ref=e135] [cursor=pointer]
+        - generic [ref=e139]:
+          - textbox "Terminal input" [active] [ref=e140]
+          - generic [ref=e141]:
+            - generic [ref=e213]: ╔══════════════════════════════════════╗
+            - generic [ref=e214]: ║ KubeQuest Terminal Simulator ║
+            - generic [ref=e215]: ║ Type kubectl commands to solve ║
+            - generic [ref=e216]: ╚══════════════════════════════════════╝
+            - generic [ref=e151]:
+              - generic [ref=e217]: ⎈
+              - generic [ref=e219]: default
+              - generic [ref=e221]: $
+  - generic [ref=e211]: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$

@@ -1,0 +1,38 @@
+- generic [active] [ref=e1]:
+  - button "Switch to dark mode" [ref=e95] [cursor=pointer]:
+    - img [ref=e3]
+  - alert [ref=e97]
+  - generic [ref=e100]:
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - generic [ref=e104]: ⎈
+          - generic [ref=e105]: Teacher Dashboard
+        - generic [ref=e106]:
+          - generic [ref=e107]: 3B5QW2
+          - generic [ref=e108]: Room Code
+      - generic [ref=e109]:
+        - generic [ref=e110]: Current Phase
+        - generic [ref=e111]: character-select
+      - generic [ref=e112]:
+        - button "⏭ Next Scenario" [ref=e140] [cursor=pointer]
+        - button "📺 Open Projector View" [ref=e114] [cursor=pointer]
+        - button "⏹ End Game" [ref=e141] [cursor=pointer]
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]: "1"
+          - generic [ref=e119]: Players
+        - generic [ref=e120]:
+          - generic [ref=e121]: "0"
+          - generic [ref=e122]: Solved
+    - generic [ref=e124]:
+      - generic [ref=e125]:
+        - heading "Player Progress" [level=2] [ref=e126]
+        - generic [ref=e135]:
+          - generic [ref=e136]: 🔧
+          - generic [ref=e137]:
+            - generic [ref=e138]: Rahul
+            - generic [ref=e139]: operator
+      - generic [ref=e131]:
+        - heading "Live Leaderboard" [level=2] [ref=e132]
+        - generic [ref=e133]: No scores yet — be the first to solve a scenario!

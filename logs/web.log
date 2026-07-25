@@ -1,0 +1,514 @@
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at /home/dk/Documents/git/animie/node_modules/next/dist/server/lib/start-server.js:280:16
+    at new Promise (<anonymous>)
+    at startServer (/home/dk/Documents/git/animie/node_modules/next/dist/server/lib/start-server.js:191:11)
+    at /home/dk/Documents/git/animie/node_modules/next/dist/server/lib/start-server.js:310:52
+    at Span.traceAsyncFn (/home/dk/Documents/git ✓ Compiled /_not-found in 166ms (1332 modules)
+ GET / 404 in 234ms
+ GET / 200 in 33ms
+ GET / 200 in 11ms
+ GET /_next/static/css/app/layout.css?v=1778921790371 404 in 10ms
+ GET / 200 in 11ms
+ GET /_next/static/css/app/layout.css?v=1778921801344 404 in 11ms
+ GET /_next/static/css/app/layout.css?v=1778921801344 404 in 13ms
+ GET / 200 in 12ms
+ GET /_next/static/css/app/layout.css?v=1778921808606 404 in 13ms
+ GET /_next/static/chunks/main-app.js?v=1778921808606 404 in 23ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 22ms
+ GET /_next/static/chunks/app/page.js 404 in 23ms
+ GET /_next/static/chunks/app/layout.js 404 in 23ms
+[?25h
+  ▲ Next.js 14.2.3
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+warning package.json: No license field
+ ✓ Ready in 2.3s
+ ○ Compiling / ...
+ ✓ Compiled / in 2.9s (1344 modules)
+ GET / 200 in 3068ms
+ GET / 200 in 21ms
+ GET / 200 in 17ms
+ ✓ Compiled /join in 314ms (1352 modules)
+ ✓ Compiled /create in 261ms (1363 modules)
+ GET /create 200 in 360ms
+ GET /join 200 in 16ms
+ ✓ Compiled in 393ms (1378 modules)
+ GET /create 200 in 46ms
+ ✓ Compiled /teacher/[code] in 201ms (1377 modules)
+ ✓ Compiled /leaderboard/[code] in 168ms (1383 modules)
+ GET /leaderboard/TCKHS8?projector=1 200 in 425ms
+ ✓ Compiled in 646ms (1398 modules)
+ ✓ Compiled in 339ms (1398 modules)
+ ✓ Compiled in 280ms (1398 modules)
+ GET / 200 in 84ms
+ GET / 200 in 18ms
+ GET /create 200 in 25ms
+ GET /join 200 in 19ms
+ ✓ Compiled in 2.5s (1398 modules)
+ GET / 200 in 576ms
+ ✓ Compiled in 718ms (680 modules)
+ ✓ Compiled in 333ms (680 modules)
+ ✓ Compiled in 2.3s (1404 modules)
+ ✓ Compiled in 1749ms (1404 modules)
+ ✓ Compiled in 1002ms (1404 modules)
+ ✓ Compiled in 914ms (1404 modules)
+ ✓ Compiled in 1149ms (1404 modules)
+ ✓ Compiled in 809ms (1404 modules)
+ ✓ Compiled in 920ms (1404 modules)
+ ✓ Compiled in 1125ms (1404 modules)
+ ✓ Compiled in 985ms (1404 modules)
+ ✓ Compiled in 944ms (1404 modules)
+ ✓ Compiled in 1757ms (1404 modules)
+ ✓ Compiled in 1207ms (1404 modules)
+ ✓ Compiled in 911ms (1404 modules)
+ ✓ Compiled in 882ms (1404 modules)
+ ✓ Compiled in 982ms (1404 modules)
+ ✓ Compiled in 1048ms (1404 modules)
+ ✓ Compiled in 873ms (1404 modules)
+ ✓ Compiled in 1088ms (1404 modules)
+ ✓ Compiled in 1267ms (1404 modules)
+ ✓ Compiled in 1621ms (1404 modules)
+ GET / 200 in 709ms
+ ✓ Compiled in 1315ms (1404 modules)
+ ✓ Compiled in 981ms (1404 modules)
+ ○ Compiling /room/[code] ...
+ ✓ Compiled /room/[code] in 1604ms (1412 modules)
+ ✓ Compiled in 1413ms (1412 modules)
+ ✓ Compiled in 1117ms (1412 modules)
+ ✓ Compiled in 1183ms (1412 modules)
+ GET /room/HMWMWN 200 in 468ms
+ GET /leaderboard/HMWMWN?projector=1 200 in 153ms
+ GET / 200 in 149ms
+ GET / 200 in 139ms
+ GET /create 200 in 112ms
+ GET /leaderboard/HMWMWN?projector=1 200 in 154ms
+ GET /join 200 in 189ms
+ ○ Compiling /game/[code] ...
+ ✓ Compiled /game/[code] in 4.3s (1415 modules)
+ GET /game/3B5QW2 200 in 6257ms
+ GET /join 200 in 193ms
+ GET /leaderboard/3B5QW2 200 in 168ms
+ GET /leaderboard/3B5QW2?projector=1 200 in 190ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled in 27.9s (1426 modules)
+ ✓ Compiled in 6.3s (1426 modules)
+ GET /game/3B5QW2 200 in 28980ms
+ GET /teacher/3B5QW2 200 in 28703ms
+ GET /leaderboard/HMWMWN 200 in 28820ms
+ GET /leaderboard/3B5QW2?projector=1 200 in 28843ms
+ ✓ Compiled in 2.9s (1426 modules)
+ ✓ Compiled in 3.6s (1426 modules)
+ ✓ Compiled in 1382ms (1426 modules)
+ ✓ Compiled in 3.1s (1426 modules)
+ ✓ Compiled in 1899ms (1426 modules)
+ ✓ Compiled in 435ms (695 modules)
+ ✓ Compiled in 891ms (695 modules)
+ ✓ Compiled in 2.2s (1426 modules)
+ ✓ Compiled in 2.5s (1426 modules)
+ ✓ Compiled in 2.2s (1426 modules)
+ ✓ Compiled in 2.3s (1426 modules)
+ ✓ Compiled in 1963ms (1426 modules)
+ ✓ Compiled in 1988ms (1426 modules)
+ ✓ Compiled in 2.2s (1426 modules)
+ ✓ Compiled in 1750ms (1426 modules)
+ ✓ Compiled in 6.5s (1426 modules)
+  ▲ Next.js 14.2.3
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+warning package.json: No license field
+ ✓ Ready in 1718ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.7s (1350 modules)
+ GET / 200 in 2877ms
+ ✓ Compiled /create in 288ms (1378 modules)
+ GET /create 200 in 376ms
+ ✓ Compiled /teacher/[code] in 258ms (1377 modules)
+ ✓ Compiled /join in 147ms (1383 modules)
+ GET /join 200 in 219ms
+ ✓ Compiled /room/[code] in 236ms (1391 modules)
+ ○ Compiling /game/[code] ...
+ ✓ Compiled /game/[code] in 709ms (1409 modules)
+ ✓ Compiled in 697ms (1424 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /teacher/NSS8DY 200 in 83ms
+ GET /game/NSS8DY 200 in 28ms
+ ✓ Compiled in 196ms (1424 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /game/NSS8DY 200 in 87ms
+ GET /teacher/NSS8DY 200 in 88ms
+ ✓ Compiled in 171ms (1424 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /game/NSS8DY 200 in 79ms
+ GET /teacher/NSS8DY 200 in 75ms
+ ✓ Compiled in 271ms (1424 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /game/NSS8DY 200 in 40ms
+ GET /teacher/NSS8DY 200 in 37ms
+ ✓ Compiled in 354ms (1424 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /teacher/NSS8DY 200 in 51ms
+ GET /game/NSS8DY 200 in 51ms
+ ✓ Compiled in 263ms (1424 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /game/NSS8DY 200 in 39ms
+ GET /teacher/NSS8DY 200 in 30ms
+ ✓ Compiled in 272ms (1424 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /game/NSS8DY 200 in 43ms
+ GET /teacher/NSS8DY 200 in 30ms
+ ✓ Compiled in 254ms (1424 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /game/NSS8DY 200 in 78ms
+ GET /teacher/NSS8DY 200 in 48ms
+ ✓ Compiled in 263ms (1424 modules)
+ ✓ Compiled in 165ms (1424 modules)
+ ✓ Compiled in 171ms (1424 modules)
+ ✓ Compiled in 163ms (1424 modules)
+ ✓ Compiled in 155ms (1424 modules)
+ ✓ Compiled in 152ms (1424 modules)
+ ✓ Compiled in 353ms (1424 modules)
+ ✓ Compiled in 351ms (1419 modules)
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/index.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/index.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /game/NSS8DY 200 in 105ms
+ GET /teacher/NSS8DY 200 in 105ms
+ ✓ Compiled /leaderboard/[code] in 456ms (1425 modules)
+ GET /leaderboard/HMWMWN 200 in 768ms
+ ✓ Compiled / in 76ms (744 modules)
+ GET / 200 in 168ms
+ GET /create 200 in 19ms
+ ✓ Compiled in 165ms (700 modules)
+ ✓ Compiled in 111ms (700 modules)
+ ✓ Compiled in 98ms (700 modules)
+ ✓ Compiled in 108ms (700 modules)
+ ✓ Compiled in 93ms (700 modules)
+ ✓ Compiled in 118ms (700 modules)
+ ✓ Compiled in 107ms (700 modules)
+ ✓ Compiled in 90ms (700 modules)
+ ✓ Compiled in 123ms (700 modules)
+ ✓ Compiled in 103ms (700 modules)
+ ✓ Compiled in 105ms (700 modules)
+ ✓ Compiled in 95ms (700 modules)
+ ✓ Compiled in 345ms (1436 modules)
+ ✓ Compiled in 199ms (1436 modules)
+ ✓ Compiled in 315ms (1436 modules)
+ ✓ Compiled in 198ms (1436 modules)
+ ✓ Compiled in 260ms (1458 modules)
+ ✓ Compiled in 298ms (1458 modules)
+ ✓ Compiled in 218ms (1458 modules)
+ ✓ Compiled in 372ms (1458 modules)
+ ✓ Compiled in 179ms (1458 modules)
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/constants/scenarios.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/constants/scenarios.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled in 567ms (1443 modules)
+ GET /create 200 in 361ms
+ GET /game/NSS8DY 200 in 347ms
+ GET /teacher/NSS8DY 200 in 377ms
+ ✓ Compiled in 187ms (711 modules)
+ ✓ Compiled in 104ms (711 modules)
+ ✓ Compiled in 116ms (711 modules)
+ ✓ Compiled in 145ms (711 modules)
+ ✓ Compiled in 111ms (711 modules)
+ ✓ Compiled in 137ms (711 modules)
+ ✓ Compiled in 121ms (711 modules)
+ ✓ Compiled in 102ms (711 modules)
+ ✓ Compiled in 99ms (711 modules)
+ ✓ Compiled in 138ms (711 modules)
+ ✓ Compiled in 113ms (711 modules)
+ ✓ Compiled in 99ms (711 modules)
+ ✓ Compiled in 100ms (711 modules)
+ ✓ Compiled in 108ms (711 modules)
+ ✓ Compiled in 96ms (711 modules)
+ ✓ Compiled in 101ms (711 modules)
+ ✓ Compiled in 131ms (711 modules)
+ ✓ Compiled in 114ms (711 modules)
+ ✓ Compiled in 475ms (1474 modules)
+ ✓ Compiled in 112ms (719 modules)
+ ✓ Compiled in 280ms (1492 modules)
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/courses/index.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/courses/index.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled in 660ms (1481 modules)
+ GET /teacher/FKQFQ9 200 in 358ms
+ GET /teacher/NSS8DY 200 in 362ms
+ GET /game/NSS8DY 200 in 360ms
+ GET /create 200 in 29ms
+ GET /teacher/FKQFQ9 200 in 51ms
+ ✓ Compiled / in 196ms (770 modules)
+ GET / 200 in 296ms
+ GET / 200 in 19ms
+ GET /teacher/W23PZ9 200 in 45ms
+ GET /teacher/W23PZ9 200 in 44ms
+ ✓ Compiled in 396ms (1495 modules)
+ ✓ Compiled in 391ms (1495 modules)
+ ✓ Compiled in 104ms (730 modules)
+ ✓ Compiled in 221ms (730 modules)
+ ✓ Compiled in 120ms (730 modules)
+ ✓ Compiled in 117ms (730 modules)
+ ✓ Compiled in 347ms (1495 modules)
+ ✓ Compiled in 263ms (1495 modules)
+ ✓ Compiled in 259ms (1495 modules)
+ ✓ Compiled in 189ms (1495 modules)
+ ⨯ ./src/app/game/[code]/page.tsx
+Error: 
+  [31mx[0m the name `settings` is defined multiple times
+     ,-[[36;1;4m/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx[0m:22:1]
+ [2m 22[0m |   const socket = useSocket();
+ [2m 23[0m |   const {
+ [2m 24[0m |     phase, currentScenario, leaderboard, myPlayer, myScore,
+ [2m 25[0m |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     : [31;1m                                               ^^^^|^^^[0m
+     :                                                    [31;1m`-- [31;1mprevious definition of `settings` here[0m[0m
+ [2m 26[0m |   } = useGameStore();
+ [2m 27[0m | 
+ [2m 28[0m |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+ [2m 29[0m |   const [hints, setHints] = useState<string[]>([]);
+ [2m 30[0m |   const [hintIndex, setHintIndex] = useState(0);
+ [2m 31[0m |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+ [2m 32[0m |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+ [2m 33[0m |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+ [2m 34[0m | 
+ [2m 35[0m |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+ [2m 36[0m |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+ [2m 37[0m |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+ [2m 38[0m |   useEffect(() => {
+ [2m 39[0m |     if (!myPlayer) {
+ [2m 40[0m |       const session = loadSession();
+ [2m 41[0m |       if (session) {
+ [2m 42[0m |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+ [2m 43[0m |           if (ack.success && ack.player && ack.room) {
+ [2m 44[0m |             setRoomCode(ack.room.code);
+ [2m 45[0m |             storeSetMyPlayer(ack.player);
+ [2m 46[0m |             setSettings(ack.room.settings);
+ [2m 47[0m |             setPlayers(ack.room.players);
+ [2m 48[0m |             setPhase(ack.room.phase);
+ [2m 49[0m |           }
+ [2m 50[0m |         });
+ [2m 51[0m |       }
+ [2m 52[0m |     }
+ [2m 53[0m |   // eslint-disable-next-line react-hooks/exhaustive-deps
+ [2m 54[0m |   }, []);
+ [2m 55[0m | 
+ [2m 56[0m |   // Countdown timer
+ [2m 57[0m |   useEffect(() => {
+ [2m 58[0m |     if (!roundEndAt) { setTimeLeft(null); return; }
+ [2m 59[0m |     const interval = setInterval(() => {
+ [2m 60[0m |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+ [2m 61[0m |     }, 250);
+ [2m 62[0m |     return () => clearInterval(interval);
+ [2m 63[0m |   }, [roundEndAt]);
+ [2m 64[0m | 
+ [2m 65[0m |   // Score popup
+ [2m 66[0m |   useEffect(() => {
+ [2m 67[0m |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+ [2m 68[0m |       setScorePopup(lastScoreEvent.points);
+ [2m 69[0m |       setTimeout(() => setScorePopup(null), 2000);
+ [2m 70[0m |     }
+ [2m 71[0m |   }, [lastScoreEvent]);
+ [2m 72[0m | 
+ [2m 73[0m |   // Phase changes
+ [2m 74[0m |   useEffect(() => {
+ [2m 75[0m |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+ [2m 76[0m |     if (phase === 'review') setShowLeaderboard(true);
+ [2m 77[0m |     if (phase === 'active') setShowLeaderboard(false);
+ [2m 78[0m |   }, [phase, code, router]);
+ [2m 79[0m | 
+ [2m 80[0m |   // Player solved notifications
+ [2m 81[0m |   useEffect(() => {
+ [2m 82[0m |     if (!solvedPlayers.length) return;
+ [2m 83[0m |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+ [2m 84[0m |     const lb = leaderboard.find(e => e.playerId === lastId);
+ [2m 85[0m |     if (lb) {
+ [2m 86[0m |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+ [2m 87[0m |       setTimeout(() => setSolveNotification(null), 3000);
+ [2m 88[0m |     }
+ [2m 89[0m |   }, [solvedPlayers]);
+ [2m 90[0m | 
+ [2m 91[0m |   function requestHint() {
+ [2m 92[0m |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+ [2m 93[0m |       if (ack.hint) {
+ [2m 94[0m |         setHints(prev => [...prev, ack.hint!]);
+ [2m 95[0m |         setHintIndex(i => i + 1);
+ [2m 96[0m |       }
+ [2m 97[0m |     });
+ [2m 98[0m |   }
+ [2m 99[0m | 
+ [2m100[0m |   const settings = useGameStore(s => s.settings);
+     : [33;1m        ^^^^|^^^[0m
+     :             [33;1m`-- [33;1m`settings` redefined here[0m[0m
+ [2m101[0m |   const namespace = (() => {
+ [2m102[0m |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ [2m103[0m |     const id = currentScenario.scenario.id;
+     `----
+
+Import trace for requested module:
+./src/app/game/[code]/page.tsx
+ ○ Compiling /_error ...
+ ⨯ ./src/app/game/[code]/page.tsx
+Error: 
+  [31mx[0m the name `settings` is defined multiple times
+     ,-[[36;1;4m/home/dk/Documents/git/animie/apps/web/src/app/game/[code]/page.tsx[0m:22:1]
+ [2m 22[0m |   const socket = useSocket();
+ [2m 23[0m |   const {
+ [2m 24[0m |     phase, currentScenario, leaderboard, myPlayer, myScore,
+ [2m 25[0m |     lastScoreEvent, roundEndAt, solvedPlayers, settings, clusterState,
+     : [31;1m                                               ^^^^|^^^[0m
+     :                                                    [31;1m`-- [31;1mprevious definition of `settings` here[0m[0m
+ [2m 26[0m |   } = useGameStore();
+ [2m 27[0m | 
+ [2m 28[0m |   const [timeLeft, setTimeLeft] = useState<number | null>(null);
+ [2m 29[0m |   const [hints, setHints] = useState<string[]>([]);
+ [2m 30[0m |   const [hintIndex, setHintIndex] = useState(0);
+ [2m 31[0m |   const [solveNotification, setSolveNotification] = useState<string | null>(null);
+ [2m 32[0m |   const [showLeaderboard, setShowLeaderboard] = useState(false);
+ [2m 33[0m |   const [scorePopup, setScorePopup] = useState<number | null>(null);
+ [2m 34[0m | 
+ [2m 35[0m |   // Bug 3: on page load/refresh, if store is empty (no myPlayer), attempt to rejoin via
+ [2m 36[0m |   // sessionStorage so the server re-registers the player and avoids "cluster state not initialized".
+ [2m 37[0m |   const { setRoomCode, setMyPlayer: storeSetMyPlayer, setSettings, setPlayers, setPhase } = useGameStore();
+ [2m 38[0m |   useEffect(() => {
+ [2m 39[0m |     if (!myPlayer) {
+ [2m 40[0m |       const session = loadSession();
+ [2m 41[0m |       if (session) {
+ [2m 42[0m |         socket.emit('room:join', { roomCode: session.roomCode, playerName: session.playerName }, (ack) => {
+ [2m 43[0m |           if (ack.success && ack.player && ack.room) {
+ [2m 44[0m |             setRoomCode(ack.room.code);
+ [2m 45[0m |             storeSetMyPlayer(ack.player);
+ [2m 46[0m |             setSettings(ack.room.settings);
+ [2m 47[0m |             setPlayers(ack.room.players);
+ [2m 48[0m |             setPhase(ack.room.phase);
+ [2m 49[0m |           }
+ [2m 50[0m |         });
+ [2m 51[0m |       }
+ [2m 52[0m |     }
+ [2m 53[0m |   // eslint-disable-next-line react-hooks/exhaustive-deps
+ [2m 54[0m |   }, []);
+ [2m 55[0m | 
+ [2m 56[0m |   // Countdown timer
+ [2m 57[0m |   useEffect(() => {
+ [2m 58[0m |     if (!roundEndAt) { setTimeLeft(null); return; }
+ [2m 59[0m |     const interval = setInterval(() => {
+ [2m 60[0m |       setTimeLeft(Math.max(0, roundEndAt - Date.now()));
+ [2m 61[0m |     }, 250);
+ [2m 62[0m |     return () => clearInterval(interval);
+ [2m 63[0m |   }, [roundEndAt]);
+ [2m 64[0m | 
+ [2m 65[0m |   // Score popup
+ [2m 66[0m |   useEffect(() => {
+ [2m 67[0m |     if (lastScoreEvent && lastScoreEvent.points > 0) {
+ [2m 68[0m |       setScorePopup(lastScoreEvent.points);
+ [2m 69[0m |       setTimeout(() => setScorePopup(null), 2000);
+ [2m 70[0m |     }
+ [2m 71[0m |   }, [lastScoreEvent]);
+ [2m 72[0m | 
+ [2m 73[0m |   // Phase changes
+ [2m 74[0m |   useEffect(() => {
+ [2m 75[0m |     if (phase === 'final') router.push(`/leaderboard/${code}`);
+ [2m 76[0m |     if (phase === 'review') setShowLeaderboard(true);
+ [2m 77[0m |     if (phase === 'active') setShowLeaderboard(false);
+ [2m 78[0m |   }, [phase, code, router]);
+ [2m 79[0m | 
+ [2m 80[0m |   // Player solved notifications
+ [2m 81[0m |   useEffect(() => {
+ [2m 82[0m |     if (!solvedPlayers.length) return;
+ [2m 83[0m |     const lastId = solvedPlayers[solvedPlayers.length - 1];
+ [2m 84[0m |     const lb = leaderboard.find(e => e.playerId === lastId);
+ [2m 85[0m |     if (lb) {
+ [2m 86[0m |       setSolveNotification(`${lb.characterEmoji} ${lb.playerName} solved it! 🎉`);
+ [2m 87[0m |       setTimeout(() => setSolveNotification(null), 3000);
+ [2m 88[0m |     }
+ [2m 89[0m |   }, [solvedPlayers]);
+ [2m 90[0m | 
+ [2m 91[0m |   function requestHint() {
+ [2m 92[0m |     socket.emit('game:request-hint', { roomCode: code, hintIndex }, (ack) => {
+ [2m 93[0m |       if (ack.hint) {
+ [2m 94[0m |         setHints(prev => [...prev, ack.hint!]);
+ [2m 95[0m |         setHintIndex(i => i + 1);
+ [2m 96[0m |       }
+ [2m 97[0m |     });
+ [2m 98[0m |   }
+ [2m 99[0m | 
+ [2m100[0m |   const settings = useGameStore(s => s.settings);
+     : [33;1m        ^^^^|^^^[0m
+     :             [33;1m`-- [33;1m`settings` redefined here[0m[0m
+ [2m101[0m |   const namespace = (() => {
+ [2m102[0m |     if (!currentScenario) return settings?.courseId === 'blockchain' ? 'blockchain' : 'default';
+ [2m103[0m |     const id = currentScenario.scenario.id;
+     `----
+
+Import trace for requested module:
+./src/app/game/[code]/page.tsx
+ GET /create 500 in 53ms
+ GET /teacher/NSS8DY 500 in 59ms
+ GET /teacher/W23PZ9 500 in 60ms
+ GET /join 500 in 39ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/dk/Documents/git/animie/apps/web/.next/cache/webpack/client-development-fallback/0.pack.gz_' -> '/home/dk/Documents/git/animie/apps/web/.next/cache/webpack/client-development-fallback/0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/dk/Documents/git/animie/apps/web/.next/cache/webpack/client-development-fallback/0.pack.gz_' -> '/home/dk/Documents/git/animie/apps/web/.next/cache/webpack/client-development-fallback/0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/dk/Documents/git/animie/apps/web/.next/cache/webpack/client-development-fallback/0.pack.gz_' -> '/home/dk/Documents/git/animie/apps/web/.next/cache/webpack/client-development-fallback/0.pack.gz'
+ ✓ Compiled /_not-found in 603ms (1707 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /create 200 in 212ms
+ GET /teacher/NSS8DY 200 in 237ms
+ GET /join 200 in 150ms
+ GET /_next/static/webpack/f186367a7d164739.webpack.hot-update.json 404 in 797ms
+ ✓ Compiled in 218ms (1722 modules)
+ ✓ Compiled in 310ms (1722 modules)
+ ✓ Compiled in 233ms (1722 modules)
+ ✓ Compiled in 276ms (1722 modules)
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/courses/blockchain.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/courses/blockchain.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled in 811ms (1707 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /_next/static/webpack/f186367a7d164739.webpack.hot-update.json 404 in 457ms
+ GET /create 200 in 441ms
+ GET /teacher/NSS8DY 200 in 442ms
+ GET /teacher/W23PZ9 200 in 34ms
+ ✓ Compiled in 220ms (1722 modules)
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/courses/blockchain.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/courses/blockchain.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled in 432ms (1707 modules)
+ GET /create 200 in 306ms
+ GET /teacher/NSS8DY 200 in 300ms
+ GET /teacher/W23PZ9 200 in 283ms
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/courses/blockchain.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/courses/blockchain.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled in 575ms (1704 modules)
+ GET /create 200 in 341ms
+ GET /teacher/W23PZ9 200 in 332ms
+ GET /teacher/NSS8DY 200 in 343ms
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/constants/scenarios.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload when (app-pages-browser)/../../packages/shared/dist/constants/scenarios.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled in 639ms (1704 modules)
+ GET /create 200 in 169ms
+ GET /teacher/NSS8DY 200 in 167ms
+ GET /teacher/W23PZ9 200 in 168ms
+ GET /teacher/W23PZ9 200 in 57ms
+ ✓ Compiled in 530ms (1704 modules)
+ GET /join 200 in 237ms
+ ✓ Compiled in 526ms (1704 modules)
+ GET /teacher/W23PZ9 200 in 160ms
+ GET / 200 in 30ms

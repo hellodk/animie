@@ -1,0 +1,12 @@
+- generic [active] [ref=e1]:
+  - button "Switch to light mode" [ref=e2] [cursor=pointer]:
+    - img [ref=e3]
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]: ⎈ KubeQuest
+        - generic [ref=e13]: "Room: 3B5QW2"
+      - generic [ref=e14]:
+        - generic [ref=e16]: 0 pts
+        - button "🏆 Board" [ref=e17] [cursor=pointer]
+    - generic [ref=e20]: Waiting for scenario...

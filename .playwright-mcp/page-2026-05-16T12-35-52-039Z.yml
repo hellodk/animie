@@ -1,0 +1,11 @@
+- generic [active] [ref=e1]:
+  - button "Switch to light mode" [ref=e2] [cursor=pointer]:
+    - img [ref=e3]
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]: 📊
+      - heading "Live Leaderboard" [level=1] [ref=e13]
+      - paragraph [ref=e14]: "Room: 3B5QW2"
+    - generic [ref=e15]:
+      - generic [ref=e16]: ⏳
+      - generic [ref=e17]: Waiting for scores...
